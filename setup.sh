@@ -2,7 +2,7 @@
 
 echo "---- Iniciando instalacao do ambiente de Desenvolvimento PHP [EspecializaTI] ---"
 
-echo "--- Atualizando lista de pacotes ---"
+echo "--- Atualizando lista de pacotes ----------" 
 sudo apt-get update
 
 echo "--- Definindo Senha padrao para o MySQL e suas ferramentas ---"
